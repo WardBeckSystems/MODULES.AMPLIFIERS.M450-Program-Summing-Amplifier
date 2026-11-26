@@ -23,7 +23,7 @@ Wiki page: [M450](../../../../PAGES/M450.md)
 - **Title block:** (348, 8)–(400, 36) mm: WARD- · SCALE · D50-02-0
 - **Wiring (first pass):** 127 connected wire groups from 737 runs; labelled ends: 274 mm → 24v, c22, IcoOp, C18; 196 mm → Ri8, Rzo, 1k8, 10; 163 mm → H4so, 3L752L, pszo, 2g1k!; 163 mm → C28, 22on10, R37, C26; 148 mm → 330/6, RI5, 3k2, C14
 
-Every curve, box, word and wire group: [1975 - M450 - 450-02-001 - PROGRAM SUMMIK AMOLIEIER GCALE SCHEMATIC (traced).json](../SCHEMATICS/1975%20-%20M450%20-%20450-02-001%20-%20PROGRAM%20SUMMIK%20AMOLIEIER%20GCALE%20SCHEMATIC%20(traced).json) (the CAD file: `1975 - M450 - 450-02-001 - PROGRAM SUMMIK AMOLIEIER GCALE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1975 - M450 - 450-02-001 - PROGRAM SUMMIK AMOLIEIER GCALE SCHEMATIC (traced).json](../SCHEMATICS/1975%20-%20M450%20-%20450-02-001%20-%20PROGRAM%20SUMMIK%20AMOLIEIER%20GCALE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1975 - M450 - 450-02-001 - PROGRAM SUMMIK AMOLIEIER GCALE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

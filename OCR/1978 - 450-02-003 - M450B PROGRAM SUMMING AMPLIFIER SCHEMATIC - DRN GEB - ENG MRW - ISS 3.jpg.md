@@ -37,7 +37,7 @@ Wiki page: [M450](../../../../PAGES/M450.md)
 - **Title block:** (357, 20)–(432, 35) mm: WBS · WARD-BeCK systeMs
 - **Wiring (first pass):** 90 connected wire groups from 770 runs; labelled ends: 353 mm → 735; 165 mm → C25, 22/25, C?3, 10/25; 141 mm → PN3C45, 3.30; 133 mm → C23, 220/i0, Ja2c; 132 mm → R32, R33
 
-Every curve, box, word and wire group: [1978 - 450-02-003 - M450B PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 3 (traced).json](../SCHEMATICS/1978%20-%20450-02-003%20-%20M450B%20PROGRAM%20SUMMING%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%203%20(traced).json) (the CAD file: `1978 - 450-02-003 - M450B PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 450-02-003 - M450B PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 3 (traced).json](../SCHEMATICS/1978%20-%20450-02-003%20-%20M450B%20PROGRAM%20SUMMING%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1978 - 450-02-003 - M450B PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 3 (traced).dxf`).
 
 ## Full text
 

@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (346, 6)–(408, 33) mm: WBSS · WAAD Beck ayatame LTo · M450 · SCALE · SCHEMATIC · 450-02
 - **Wiring (first pass):** 128 connected wire groups from 792 runs, 4 dotted junctions; labelled ends: 259 mm → WBSS, H4so; 150 mm → C27, C28, 220n10, R37; 128 mm → Qio, C22, icoop, 470; 112 mm → 23016, R8, Cio, Toup; 80 mm → C25, ioop, ~I6v, R37
 
-Every curve, box, word and wire group: [19xx - M450 - DOC - 01450-02-001 - USE THESE COHPONENTS ONLY WHEN SPECIFIED (traced).json](../SCHEMATICS/19xx%20-%20M450%20-%20DOC%20-%2001450-02-001%20-%20USE%20THESE%20COHPONENTS%20ONLY%20WHEN%20SPECIFIED%20(traced).json) (the CAD file: `19xx - M450 - DOC - 01450-02-001 - USE THESE COHPONENTS ONLY WHEN SPECIFIED (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M450 - DOC - 01450-02-001 - USE THESE COHPONENTS ONLY WHEN SPECIFIED (traced).json](../SCHEMATICS/19xx%20-%20M450%20-%20DOC%20-%2001450-02-001%20-%20USE%20THESE%20COHPONENTS%20ONLY%20WHEN%20SPECIFIED%20%28traced%29.json) (the CAD file: `19xx - M450 - DOC - 01450-02-001 - USE THESE COHPONENTS ONLY WHEN SPECIFIED (traced).dxf`).
 
 ## Full text
 

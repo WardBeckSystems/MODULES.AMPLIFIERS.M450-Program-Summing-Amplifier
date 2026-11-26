@@ -11,6 +11,19 @@ Wiki page: [M450](../../../../PAGES/M450.md)
 - **Size:** 341,468 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 282 mm, 2000 × 1304 px traced (0.216 mm/px)
+- **Ink extent:** 0–432 mm across, 0–282 mm up
+- **Outlines:** line 1,022 rings, 7,661 straight (11,639 mm) / 1,634 curved (1,684 mm); text 671 rings, 4,429 straight (3,870 mm) / 1,551 curved (1,684 mm); tb 40 rings, 252 straight (247 mm) / 49 curved (47.4 mm)
+- **Circles and arcs:** 2 circles, 0 arcs; largest r 1.6 @ (153.3, 152.5), r 1.0 @ (82.5, 150.8)
+- **Closed boxes:** 24 (2 in the title block); named: 22; 2i
+- **Dots (junctions):** 2
+- **Words (OCR):** 113 in 104 lines: C16 · R3 · C28 · C27 · R52 · RS 4 · ~R4 % · R381 · -R24 · 320/10 / · R6 · TIP 29 B
+- **Title block:** (348, 2)–(413, 29) mm: WBS WAAD Beck · DATE · PROCRAM/SUMMING AMplifier · Mas0 · cKDA · COMPONENT AS5
+
+Every curve, box, word and wire group: [1975 - M450 - P14 - Component Layout (traced).json](../SCHEMATICS/1975%20-%20M450%20-%20P14%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `1975 - M450 - P14 - Component Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)

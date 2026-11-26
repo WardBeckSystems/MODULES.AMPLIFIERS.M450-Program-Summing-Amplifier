@@ -38,7 +38,7 @@ Wiki page: [M450](../../../../PAGES/M450.md)
 - **Words (OCR):** 43 in 38 lines: 6,250 · 45 · TYp · 25 · 545 · 1.470 · 2.94 · 1.850 · 125 · 159DIA: · 25 · 2 HOLES
 - **Title block:** (140, 10)–(376, 61) mm: Iss MOD [CKD · USED ON · MATL _ · [824 · WBS WARD-BECK · I6 GA; ALUM; · 288310 · DRN_ · Do · DATE APR 75 · COVEZ · 1 Dec AF · FINISH · 14474 Ale · "220 Dim · E76. · CKD · ANODIZE BLACK SCALE · FLLL · 
 
-Every curve, box, word and wire group: [1975 - 450-03-006 - COVER PLATE - DRN DM - ISS 6 (traced).json](../MECHANICAL/1975%20-%20450-03-006%20-%20COVER%20PLATE%20-%20DRN%20DM%20-%20ISS%206%20(traced).json) (the CAD file: `1975 - 450-03-006 - COVER PLATE - DRN DM - ISS 6 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - 450-03-006 - COVER PLATE - DRN DM - ISS 6 (traced).json](../MECHANICAL/1975%20-%20450-03-006%20-%20COVER%20PLATE%20-%20DRN%20DM%20-%20ISS%206%20%28traced%29.json) (the CAD file: `1975 - 450-03-006 - COVER PLATE - DRN DM - ISS 6 (traced).dxf`).
 
 ## Full text
 

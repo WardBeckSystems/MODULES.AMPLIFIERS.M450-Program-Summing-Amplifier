@@ -38,7 +38,7 @@ Wiki page: [M450](../../../../PAGES/M450.md)
 - **Words (OCR):** 46 in 36 lines: "25 · 45 · 77 TYE · 1.470 · 2.,940 · 2.480 · 425 · 380 · FULL RAD . · .250 · 5.A0O · .30 DIA ~ 2 FLACES
 - **Title block:** (140, 15)–(412, 66) mm: Ilss MOD  CKD: · USED ON · MATL · 2654 · WBS WARD-BECK SYSTEMS LTD_ · ALIM . MLOY . ( I6 GAJ) · DRN: Ming · FINISH · DATE 2 ,MAR · PL Lte · CKD · M4 504 COVER · AHODIZE BLACK · SCALE · TOLS _ · 1,015 
 
-Every curve, box, word and wire group: [1976 - 450-03-004 - M450A COVER PLATE - DRN MING - ISS 5 (traced).json](../MECHANICAL/1976%20-%20450-03-004%20-%20M450A%20COVER%20PLATE%20-%20DRN%20MING%20-%20ISS%205%20(traced).json) (the CAD file: `1976 - 450-03-004 - M450A COVER PLATE - DRN MING - ISS 5 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 450-03-004 - M450A COVER PLATE - DRN MING - ISS 5 (traced).json](../MECHANICAL/1976%20-%20450-03-004%20-%20M450A%20COVER%20PLATE%20-%20DRN%20MING%20-%20ISS%205%20%28traced%29.json) (the CAD file: `1976 - 450-03-004 - M450A COVER PLATE - DRN MING - ISS 5 (traced).dxf`).
 
 ## Full text
 

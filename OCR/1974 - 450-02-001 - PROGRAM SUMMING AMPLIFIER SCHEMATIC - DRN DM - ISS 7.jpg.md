@@ -36,7 +36,7 @@ Wiki page: [M450](../../../../PAGES/M450.md)
 - **Title block:** (693, 11)–(816, 66) mm: WBSS · WAAD Beck byateme LTo · @ATE · M450 · SCALE · SCHEMATIC · 450-02
 - **Wiring (first pass):** 191 connected wire groups from 1,061 runs, 2 dotted junctions; labelled ends: 472 mm → WBSS, [7521; 438 mm → Qio, Tip30b, C22, icoop; 308 mm → C27, '84r, C?8, 22on10; 213 mm → 230/6, RB, 7k5, Cio; 160 mm → C25, R37, C26
 
-Every curve, box, word and wire group: [1974 - 450-02-001 - PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN DM - ISS 7 (traced).json](../SCHEMATICS/1974%20-%20450-02-001%20-%20PROGRAM%20SUMMING%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%207%20(traced).json) (the CAD file: `1974 - 450-02-001 - PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN DM - ISS 7 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 450-02-001 - PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN DM - ISS 7 (traced).json](../SCHEMATICS/1974%20-%20450-02-001%20-%20PROGRAM%20SUMMING%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%207%20%28traced%29.json) (the CAD file: `1974 - 450-02-001 - PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN DM - ISS 7 (traced).dxf`).
 
 ## Full text
 

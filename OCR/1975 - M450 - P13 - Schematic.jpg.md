@@ -11,6 +11,20 @@ Wiki page: [M450](../../../../PAGES/M450.md)
 - **Size:** 389,246 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 280 mm, 2000 × 1297 px traced (0.216 mm/px)
+- **Ink extent:** 7–432 mm across, 0–280 mm up
+- **Outlines:** line 786 rings, 8,032 straight (14,189 mm) / 1,748 curved (2,284 mm); text 859 rings, 5,050 straight (4,776 mm) / 1,673 curved (2,079 mm); tb 11 rings, 93 straight (150 mm) / 16 curved (18.6 mm)
+- **Centre lines:** 10,304 paths (217 closed); straight 11,170 mm, curved 567 mm; horizontal 3,401 mm, vertical 2,855 mm, diagonal 4,914 mm
+- **Circles and arcs:** 17 circles, 104 arcs; largest r 3.8 @ (331.3, 191.9), r 3.8 @ (305.0, 124.7), r 3.8 @ (331.1, 132.2), r 3.6 @ (191.7, 103.1)
+- **Closed boxes:** 11; named: [45o; EC4
+- **Words (OCR):** 169 in 146 lines: C24 · R38 · 0/5 · 06 · Tip308 · 05 · C27 · CPS · R39 · Pai 3867 · ~i6v · 40
+- **Title block:** (351, 13)–(412, 30) mm: WBS WAAD-beCK bybteme LTD · DRLI Di · DA
+- **Wiring (first pass):** 125 connected wire groups from 769 runs; labelled ends: 289 mm → +24V, C22, icoop, R29; 184 mm → WBS, [45o; 170 mm → C27, IOOOF, c28, 22o/10; 115 mm → I6v, Ri5, C14, 2205; 103 mm → Rie, 12, Pi6, Ri9
+
+Every curve, box, word and wire group: [1975 - M450 - P13 - Schematic (traced).json](../SCHEMATICS/1975%20-%20M450%20-%20P13%20-%20Schematic%20%28traced%29.json) (the CAD file: `1975 - M450 - P13 - Schematic (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 6 words corrected)
