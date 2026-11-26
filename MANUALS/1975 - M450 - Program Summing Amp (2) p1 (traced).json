@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/AMPLIFIERS/M450/MANUALS/1975 - M450 - Program Summing Amp (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/e94410098d41d912-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1250],
+  "mm": [431.8, 269.9],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "1"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [9.7, 8.4, 423.6, 261.2],
+ "outlines": {
+  "line": {"rings": 5, "straight": {"n": 17, "mm": 678.9}, "curved": {"n": 7, "mm": 26.6}},
+  "text": {"rings": 633, "straight": {"n": 5023, "mm": 8468.9}, "curved": {"n": 1455, "mm": 2970.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 84,
+  "lines": [
+   {"mm": [67.8, 222.4, 370.9, 238.2], "text": "Multiple files are bound together in this PDF Package."},
+   {"mm": [33.0, 202.5, 396.4, 214.3], "text": "Adobe recommends using Adobe Reader or Adobe Acrobat version or later to work with"},
+   {"mm": [33.0, 190.9, 396.6, 202.6], "text": "documents contained within PDF Package. By updating to the latest version, you’ll enjoy"},
+   {"mm": [33.0, 179.2, 123.9, 191.0], "text": "the following benefits:"},
+   {"mm": [77.3, 161.9, 209.4, 173.7], "text": "Efficient, integrated PDF viewing"},
+   {"mm": [77.3, 144.7, 130.2, 156.4], "text": "Easy printing"},
+   {"mm": [77.3, 127.4, 137.7, 139.1], "text": "Quick searches"},
+   {"mm": [95.0, 96.7, 343.5, 111.6], "text": "Don’t have the latest version of Adobe Reader?"},
+   {"mm": [60.2, 71.5, 378.3, 87.1], "text": "Click here to download the latest version of Adobe Reader"},
+   {"mm": [123.9, 45.6, 302.5, 60.4], "text": "If you already have Adobe Reader"},
+   {"mm": [390.3, 48.1, 407.2, 55.3], "text": "ps"},
+   {"mm": [381.1, 38.9, 398.8, 48.0], "text": "BS"},
+   {"mm": [113.1, 31.1, 325.6, 46.0], "text": "click file in this PDF Package to view it."},
+   {"mm": [362.9, 20.9, 377.8, 26.7], "text": "tp"},
+   {"mm": [357.3, 15.1, 374.2, 20.9], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 432 × 270 mm, 2000 × 1250 px traced (0.216 mm/px)",
+  "- **Ink extent:** 10–424 mm across, 8–261 mm up",
+  "- **Outlines:** line 5 rings, 17 straight (679 mm) / 7 curved (26.6 mm); text 633 rings, 5,023 straight (8,469 mm) / 1,455 curved (2,970 mm)",
+  "- **Words (OCR):** 84 in 15 lines: Multiple files are bound together in this PDF Package. · Adobe recommends using Adobe Reader or Adobe Acrobat version or later to work with · documents contained within PDF Package. By updating to the latest version, you’ll enjoy · the following benefits: · Efficient, integrated PDF viewing · Easy p"
+ ]
+}
