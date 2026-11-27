@@ -83,22 +83,27 @@ Not on Google Drive yet: `1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIE
 
 ## RTO-144 pinout
 
-ELCO 00-6007-015-940-002 · 15 contacts, single row; checked against 450-04-001 iss. 2 (June 1976), M450 and M450A program/summing amplifier connector layout; manual p. 15 pin out. Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 7 pinout pictures (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 15 of 15 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 3 | TWO SECTIONS OF 21 WITH THEIR POWER | power |  | medium |
-| 5 | (NA FOR MASOA ) | other |  | medium |
-| 7 | INPUT SHIELD | ground |  | medium |
-| 8 | COMMON | ground |  | medium |
-| 14 | NC | nc |  | medium |
-| 15 | -25V | power |  | medium |
-| 18 | COMMON | ground |  | high |
-| 19 | -25 V | power |  | high |
-| 20 | COMMON | ground |  | high |
-| 21 | +25 V | power |  | high |
-| E | PROGRA AS | other |  | medium |
-| Y | +24 V | power |  | high |
+| 1 | +25 V | power |  | high |
+| 2 | N/C | nc |  | high |
+| 3 | SUMMING INPUT | in | SUMMING INPUT | high |
+| 4 | PROGRAM INPUT | in | PROGRAM INPUT | high |
+| 5 | SUMMING INPUT | in | SUMMING INPUT | high |
+| 6 | PROGRAM INPUT | in | PROGRAM INPUT | high |
+| 7 | INPUT SHIELD | shield | PROGRAM INPUT shield | high |
+| 8 | COMMON | ground |  | high |
+| 9 | GAIN SET | strap | GAIN SET | high |
+| 10 | GAIN SET | strap | GAIN SET | high |
+| 11 | GAIN SET | strap | GAIN SET | high |
+| 12 | OUTPUT | out | OUTPUT | high |
+| 13 | OUTPUT | out | OUTPUT | high |
+| 14 | N/C | nc |  | high |
+| 15 | -25 V | power |  | high |
+
+**Straps:** GAIN SET: P1-9 P1-10 P1-11
 
 ## Manuals and documents
 

@@ -1,0 +1,223 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "M450 - P15 - Pin Out.jpg",
+  "module": "M450",
+  "applies_to": [
+    "M450",
+    "M450A"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "450-04-001",
+    "title": "M450 AND M450A PROGRAM/SUMMING AMPLIFIER CONNECTOR REAR VIEW",
+    "date": "1976-06",
+    "issue": "2",
+    "drawn": "GEB"
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 15,
+      "rows": "1-15 single row",
+      "view": "rear",
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "N/C",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "INPUT WHEN USED AS SUMMING AMP",
+      "signal": "SUMMING INPUT",
+      "kind": "in",
+      "port": "SUMMING INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "INPUT WHEN USED AS PROGRAM AMP",
+      "signal": "PROGRAM INPUT",
+      "kind": "in",
+      "port": "PROGRAM INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "INPUT WHEN USED AS SUMMING AMP",
+      "signal": "SUMMING INPUT",
+      "kind": "in",
+      "port": "SUMMING INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "INPUT WHEN USED AS PROGRAM AMP",
+      "signal": "PROGRAM INPUT",
+      "kind": "in",
+      "port": "PROGRAM INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "INPUT SHIELD",
+      "signal": "INPUT SHIELD",
+      "kind": "shield",
+      "port": "PROGRAM INPUT",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "COMMON",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "GAIN SET",
+      "signal": "GAIN SET",
+      "kind": "strap",
+      "port": "GAIN SET",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "GAIN SET",
+      "signal": "GAIN SET",
+      "kind": "strap",
+      "port": "GAIN SET",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "GAIN SET",
+      "signal": "GAIN SET",
+      "kind": "strap",
+      "port": "GAIN SET",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "OUTPUT",
+      "signal": "OUTPUT",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "OUTPUT",
+      "signal": "OUTPUT",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "N/C",
+      "signal": "N/C",
+      "kind": "nc",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "PROGRAM INPUT",
+      "dir": "in",
+      "pins": {
+        "a": "P1-4",
+        "b": "P1-6",
+        "shield": "P1-7"
+      }
+    },
+    {
+      "name": "SUMMING INPUT",
+      "dir": "in",
+      "pins": {
+        "a": "P1-3",
+        "b": "P1-5"
+      }
+    },
+    {
+      "name": "OUTPUT",
+      "dir": "out",
+      "pins": {
+        "a": "P1-12",
+        "b": "P1-13"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [
+    {
+      "name": "GAIN SET",
+      "pins": [
+        "P1-9",
+        "P1-10",
+        "P1-11"
+      ],
+      "note": "bracketed GAIN SET; which pins to join for which gain is not shown"
+    }
+  ],
+  "unread": [
+    "connector part number not on this version"
+  ],
+  "confidence": "high",
+  "notes": "Typed redraw of 450-04-001 ISS 2 (DRN GEB, June 76). No polarity marks: port pin pairs given as a/b in drawing order. Program-amp input bracket spans 4-6 (ticks at 4 and 6), summing-amp input bracket 3-5 (ticks at 3 and 5). This version lacks the '(N/A FOR M450A)' note. Pin 7 INPUT SHIELD assigned to the program input. WBSps.ca watermark."
+}
