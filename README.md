@@ -13,6 +13,39 @@ Ward-Beck Systems M450, 1974|7. Wiki page: [M450 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 44 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [6 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1975 - M450 - P05 - 1-1.jpg](MANUALS/1975%20-%20M450%20-%20P05%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | 24 to 40 dB _ Unity with externa ] pair of T5k 0hm resistors |
+| **Noise** | (20 Hz to 20 kllz) 65 dBm (at 40 dB gain) 80 dBm. (at unity gain) |
+| **Input impedance** | 5k ohm. 30k ohm (with externa] pair 0 [ T5k ohm resistors). |
+| **Output isolation** | (not applicable): 90 dB or better from 20 Hz 10 20 kHz 'Maximum Input Leve] +30. dBm. Used a $ PROGRAM Or SUMMING AMPLIFIER |
+| **Frequency response** | Harmonic Distortion ~10.25 dB from 20 Hz_ to 20 klz. Less than 0.25% Thi) from 20.Hz Lo 20 kHz 600 on Ia X i MuM, baLanced |
+| **Source impedance** |  |
+| &nbsp;&nbsp;Maximum output level | +30 dBm into 600 0 hmn 1oad, balanced. Output' Impedance Less than 35 ohm, 20 Hz Lo 20 kHzba ]anced Load [mpedance 600 ohm miniMUM. |
+| **Phasing** | Low number termina ] 5 of input and output dre in phase |
+| **Power requirement** | 25 volts dc 40 #26: MA quiescent current, Ma at +30 dBm output into 600 ohm. |
+| **Ambient temperature** | 0.to 60 degrees Celsius wide 3.5&quot; high X 7.0&quot; Jeep (28 mm X 89 MM X 178 Mm) Dimens ons |
+
+## Circuit description
+
+From [1975 - M450 - vint P5.jpg](MANUALS/1975%20-%20M450%20-%20vint%20P5.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+M450 PROGRAM/ SUMM NG AMPLIFIER The two sections of 21 with their power booster output transistors Q1, Q2, Q3 and Ql provide the balanced summing (mixing) nput to the M450 Via pins 3 and 5 of the edge connector. One half of the balanced signa] is app] ied_ to pin 3 through_ the external summing (mixing) resistors (15 ko nomi na] each) to pin 6 of 21 through C5. From s igna] tandpoint, this point is virtually at ground potential and it is impractica] to measures igna] vo tage at this point. The second half of the balanced s igna] is applied to 5, Bi8 again through the external summing resistors, to pin of 21 through C6_ In addition the output of 21, pin is also summed through R13 to pin 8 of 2I _ Thus, at C15, which is located at the output of the summing pre-amp]ifier, the sum of all input voltages connected to the summing inputs will appear. When the unit is used as program amp ] i fier, the input signa] iS app] ied to pins 4 and 6 of the edge connector and then proceeds via on-board resistors to z1, presenting an input of approximately 5 k to the s igna ] source When used as summing amp] i fier the M450 is usually operating at unity gain, while as program amp] i fier the gain may From 24 to 40 dB = A11 gain changes of the amplifier are Facy litated by externa| resistance strappi on ins 9, 10 and ng 11 the feedback Be Effectively this changes oop tween pins 13 and 8 of ZI _ Since the selection of either pair of input terminals as we ] 1 as the gain of each amp 1 i fier is determined by connections made at the connector rather than inside the amp |ifier all M450 amplifiers within any given system can be freely interchanged without affecting system specifications and operation. Fo] owing the Pre-amp] i fier output at C15 is 12 dB per octave low pass filter comprised of R22 R52, R23, R24, C16 C17, C18 and C19, limiting the bandwidth beyond the audio pass band. The s igna] is then fed to pin 6 of 22 and subsequently to transistors Q9, Q10, Q11 and Q12. These transistors comprise
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

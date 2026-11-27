@@ -1,0 +1,179 @@
+{
+ "module": "M450",
+ "title": "Used a$ PROGRAM_AMPLITIER",
+ "source": {
+  "file": "MANUALS/1975 - M450 - P05 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.84,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "24 to 40 dB _ Unity with externa ] pair of T5k 0hm resistors",
+   "quantities": [
+    {
+     "from": 24,
+     "to": 40,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "(20 Hz to 20 kllz) 65 dBm (at 40 dB gain) 80 dBm. (at unity gain)",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 65,
+     "unit": "dBm"
+    },
+    {
+     "value": 40,
+     "unit": "dB"
+    },
+    {
+     "value": 80,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "5k ohm. 30k ohm (with externa] pair 0 [ T5k ohm resistors)."
+  },
+  {
+   "name": "Output isolation",
+   "key": "output_isolation",
+   "text": "(not applicable): 90 dB or better from 20 Hz 10 20 kHz 'Maximum Input Leve] +30. dBm. Used a $ PROGRAM Or SUMMING AMPLIFIER",
+   "quantities": [
+    {
+     "value": 90,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "Harmonic Distortion ~10.25 dB from 20 Hz_ to 20 klz. Less than 0.25% Thi) from 20.Hz Lo 20 kHz 600 on Ia X i MuM, baLanced",
+   "quantities": [
+    {
+     "value": 10.25,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 0.25,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Maximum output level",
+     "text": "+30 dBm into 600 0 hmn 1oad, balanced. Output' Impedance Less than 35 ohm, 20 Hz Lo 20 kHzba ]anced Load [mpedance 600 ohm miniMUM.",
+     "quantities": [
+      {
+       "value": 30,
+       "unit": "dBm"
+      },
+      {
+       "value": 35,
+       "unit": "ohm"
+      },
+      {
+       "value": 20,
+       "unit": "Hz"
+      },
+      {
+       "value": 600,
+       "unit": "ohm"
+      }
+     ],
+     "key": "maximum_output_level"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Low number termina ] 5 of input and output dre in phase"
+  },
+  {
+   "name": "Power requirement",
+   "key": "power_requirement",
+   "text": "25 volts dc 40 #26: MA quiescent current, Ma at +30 dBm output into 600 ohm.",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "0.to 60 degrees Celsius wide 3.5\" high X 7.0\" Jeep (28 mm X 89 MM X 178 Mm) Dimens ons",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "degrees Celsius"
+    },
+    {
+     "value": 3.5,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 28,
+     "unit": "mm"
+    },
+    {
+     "value": 89,
+     "unit": "MM"
+    },
+    {
+     "value": 178,
+     "unit": "Mm"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "module": "M450",
+ "source": {
+  "file": "MANUALS/1975 - M450 - vint P5.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.88,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "M450 PROGRAM/ SUMM NG AMPLIFIER The two sections of 21 with their power booster output transistors Q1, Q2, Q3 and Ql provide the balanced summing (mixing) nput to the M450 Via pins 3 and 5 of the edge connector. One half of the balanced signa] is app] ied_ to pin 3 through_ the external summing (mixing) resistors (15 ko nomi na] each) to pin 6 of 21 through C5. From s igna] tandpoint, this point is virtually at ground potential and it is impractica] to measures igna] vo tage at this point. The second half of the balanced s igna] is applied to 5, Bi8 again through the external summing resistors, to pin of 21 through C6_ In addition the output of 21, pin is also summed through R13 to pin 8 of 2I _ Thus, at C15, which is located at the output of the summing pre-amp]ifier, the sum of all input voltages connected to the summing inputs will appear. When the unit is used as program amp ] i fier, the input signa] iS app] ied to pins 4 and 6 of the edge connector and then proceeds via on-board resistors to z1, presenting an input of approximately 5 k to the s igna ] source When used as summing amp] i fier the M450 is usually operating at unity gain, while as program amp] i fier the gain may From 24 to 40 dB = A11 gain changes of the amplifier are Facy litated by externa| resistance strappi on ins 9, 10 and ng 11 the feedback Be Effectively this changes oop tween pins 13 and 8 of ZI _ Since the selection of either pair of input terminals as we ] 1 as the gain of each amp 1 i fier is determined by connections made at the connector rather than inside the amp |ifier all M450 amplifiers within any given system can be freely interchanged without affecting system specifications and operation. Fo] owing the Pre-amp] i fier output at C15 is 12 dB per octave low pass filter comprised of R22 R52, R23, R24, C16 C17, C18 and C19, limiting the bandwidth beyond the audio pass band. The s igna] is then fed to pin 6 of 22 and subsequently to transistors Q9, Q10, Q11 and Q12. These transistors comprise"
+   ]
+  }
+ ]
+}
