@@ -1,5 +1,5 @@
 # 1975 - 450-03-006 - COVER PLATE - DRN DM - ISS 6.png
-Wiki page: [M450](../../../../PAGES/M450.md)
+Wiki page: [M450](../)
 
 
 - **Year:** 1975 (title block date)

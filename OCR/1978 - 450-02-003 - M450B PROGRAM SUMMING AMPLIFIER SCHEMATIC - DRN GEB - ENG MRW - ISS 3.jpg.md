@@ -1,5 +1,5 @@
 # 1978 - 450-02-003 - M450B PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 3.jpg
-Wiki page: [M450](../../../../PAGES/M450.md)
+Wiki page: [M450](../)
 
 
 - **Year:** 1978 (title block date)

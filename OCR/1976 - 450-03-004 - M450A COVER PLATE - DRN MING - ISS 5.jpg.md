@@ -1,5 +1,5 @@
 # 1976 - 450-03-004 - M450A COVER PLATE - DRN MING - ISS 5.jpg
-Wiki page: [M450](../../../../PAGES/M450.md)
+Wiki page: [M450](../)
 
 
 - **Year:** 1976 (title block date)

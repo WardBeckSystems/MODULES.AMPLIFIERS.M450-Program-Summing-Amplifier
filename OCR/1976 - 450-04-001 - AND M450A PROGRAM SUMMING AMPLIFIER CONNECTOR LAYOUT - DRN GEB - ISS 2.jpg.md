@@ -1,5 +1,5 @@
 # 1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.jpg
-Wiki page: [M450](../../../../PAGES/M450.md)
+Wiki page: [M450](../)
 
 
 - **Year:** 1976 (title block date)

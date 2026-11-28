@@ -1,5 +1,5 @@
 # 1975 - 450-01-001 - M450A PROGRAM SUMMING AMPLIFIER FUNCTIONAL DIAGRAM - DRN AAS - ISS 1.png
-Wiki page: [M450](../../../../PAGES/M450.md)
+Wiki page: [M450](../)
 
 
 - **Year:** 1975 (title block date)

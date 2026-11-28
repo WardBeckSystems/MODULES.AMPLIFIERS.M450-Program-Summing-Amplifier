@@ -1,5 +1,5 @@
 # 1974 - 450-02-001 - PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN DM - ISS 7.jpg
-Wiki page: [M450](../../../../PAGES/M450.md)
+Wiki page: [M450](../)
 
 
 - **Year:** 1974 (title block date)
