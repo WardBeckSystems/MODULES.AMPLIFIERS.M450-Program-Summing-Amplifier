@@ -4,13 +4,12 @@ Ward-Beck Systems M450, 1974|7. Wiki page: [M450 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 37 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 20 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 34 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 36 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 19 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 36 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 41 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -58,7 +57,14 @@ _Photographs of the module itself: front, back, inside, racked._
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
-Not on Google Drive yet: `1975 - 450-03-006 - COVER PLATE - DRN DM - ISS 6.png`, `1976 - 450-03-004 - M450A COVER PLATE - DRN MING - ISS 5.jpg`
+## 3-D model
+
+[`MECHANICAL/M450.stl`](MECHANICAL/M450.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M450)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (assumed: 1.6" x 7" x 6.5", the common module)
+- **From the drawing:** 0 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M450 - front panel.svg`)
+- no drawing of the front panel: the panel is blank
+- Made by `tools/module_models.py` (→ `MECHANICAL/M450.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -69,8 +75,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWldyZGtQR0g1dlE/view?resourcekey=0-_9eIPFScaQUhBZ5LYsr6sA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWldyZGtQR0g1dlE&resourcekey=0-_9eIPFScaQUhBZ5LYsr6sA" width="240" alt="1975 - M450 - P13 - Schematic.jpg"></a><br><sub>1975|8 · P13 - Schematic · <a href="SCHEMATICS/1975%20-%20M450%20-%20P13%20-%20Schematic%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKajg3T3RqMWM0Zmc/view?resourcekey=0-enPAIydlQsm6YOz3Bprhzg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKajg3T3RqMWM0Zmc&resourcekey=0-enPAIydlQsm6YOz3Bprhzg" width="240" alt="1975 - M450 - P14 - Component Layout.jpg"></a><br><sub>1975|8 · P14 - Component Layout · <a href="SCHEMATICS/1975%20-%20M450%20-%20P14%20-%20Component%20Layout%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/17CIHtcSxLNnEo2mO3pcQSORLkRMoaxeV/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=17CIHtcSxLNnEo2mO3pcQSORLkRMoaxeV" width="240" alt="19xx - M450 - DOC - 01450-02-001 - USE THESE COHPONENTS ONLY WHEN SPECIFIED.jpg"></a><br><sub>19xx - M450 - DOC - 01450-02-001 - USE THESE COHPONENTS ONLY WHEN SPECIFIED · <a href="SCHEMATICS/19xx%20-%20M450%20-%20DOC%20-%2001450-02-001%20-%20USE%20THESE%20COHPONENTS%20ONLY%20WHEN%20SPECIFIED%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1974 - 450-02-001 - PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN DM - ISS 7.jpg`, `1975 - 450-01-001 - M450A PROGRAM SUMMING AMPLIFIER FUNCTIONAL DIAGRAM - DRN AAS - ISS 1.png`, `1978 - 450-02-003 - M450B PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 3.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -78,8 +82,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKLWpsTmp1ZVFlb2c/view?resourcekey=0-1p7ZCEBSPVhCl_MNxR8FlA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKLWpsTmp1ZVFlb2c&resourcekey=0-1p7ZCEBSPVhCl_MNxR8FlA" width="240" alt="1975 - M450 - P15 - Pin Out.jpg"></a><br><sub>1975|8 · P15 - Pin Out · <a href="PINOUTS/1975%20-%20M450%20-%20P15%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `1976 - 450-04-001 - AND M450A PROGRAM SUMMING AMPLIFIER CONNECTOR LAYOUT - DRN GEB - ISS 2.jpg`, `M450 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -133,7 +135,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1978 - 450-02-003 - M450B PROGRAM SUMMING AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 3.kicad_sch](KICAD/1978%20-%20450-02-003%20-%20M450B%20PROGRAM%20SUMMING%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%203.kicad_sch)
 - [19xx - M450 - DOC - 01450-02-001 - USE THESE COHPONENTS ONLY WHEN SPECIFIED.kicad_sch](KICAD/19xx%20-%20M450%20-%20DOC%20-%2001450-02-001%20-%20USE%20THESE%20COHPONENTS%20ONLY%20WHEN%20SPECIFIED.kicad_sch)
 - [M450.kicad_sym](KICAD/M450.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
